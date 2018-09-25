@@ -1,4 +1,5 @@
 DOPAMINE NEURON PATCH-CLAMP DATA (RODENT BRAIN SLICE)
+(Example images in .jpeg files)
 
 Example neural recording data used for assimilation. 
 P180830a3.dat is the spiking membrane voltage response 
