@@ -3,8 +3,8 @@ DOPAMINE NEURON PATCH-CLAMP DATA (RODENT BRAIN SLICE)
 Example neural recording data used for assimilation. 
 P180830a3.dat is the spiking membrane voltage response 
 to a complex injected current (Iinj.dat). The scale for 
-the current channel is 1 mV per picoAmp, and the voltage
-scale is millivolts.
+the current channel is 1 millivolt per picoAmp, and the 
+voltage channel is millivolts.
 
 Patch-clamp measurements were recorded by Dr. Paul Morris 
 (University of Bristol / University of Bath) - 30/08/2018.
