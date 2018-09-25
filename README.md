@@ -1,2 +1,2 @@
-# DaDDy
-Data assimilation for discrete dynamical systems.
+# pydsi
+Statistical variational inference for dynamical systems.
