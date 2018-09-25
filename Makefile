@@ -10,12 +10,12 @@
 ##########################################################################
 
 # CHANGEME: This should be the name of your executable
-EXE = condmodel.exe
+EXE = executable.exe
 
 # CHANGEME: Here is the name of all object files corresponding to the source
 #           code that you wrote in order to define the problem statement
-OBJS = condmodel_main.o \
-	condmodel_nlp.o
+OBJS = Test_main.o \
+	Test_nlp.o
 
 # CHANGEME: Additional libraries
 ADDLIBS =

@@ -1,0 +1,7 @@
+#################################
+# Basic problem specifications
+#################################
+# number of points observed
+20001
+# sampling rate (hz)
+100000

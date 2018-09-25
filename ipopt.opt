@@ -1,0 +1,21 @@
+# Set the max number of iterations
+max_iter 10000
+# set derivative test
+#derivative_test second-order
+#derivative_test_print_all yes
+# set termination criteria
+tol 1.0e-12
+#dual_inf_tol 0.001
+#compl_inf_tol 1.0e-12
+#constr_viol_tol 1.0e-8
+#acceptable_tol 1.0e-10
+#acceptable_iter 
+#turn off the NLP scaling
+#nlp_scaling_method none
+#mehrotra_algorithm yes
+mu_strategy adaptive
+linear_solver ma97
+#linear_system_scaling none
+bound_relax_factor 0
+ma27_pivtol 1.0e-6
+
