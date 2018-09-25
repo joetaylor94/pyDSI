@@ -3,9 +3,9 @@ Example file for the generation of an executable
 for the determination of the dynamical state and 
 parameters of a chaotic Lorenz system (1963).
 
-Using PyDSI, a set of coupled differential equations
-are transformed to discrete-time mappings, which are
-imposed as (strong) constraints on a cost function 
+Using this package, a set of coupled differential 
+equations are transformed to discrete-time mappings 
+and imposed as (strong) constraints on a cost function 
 which defines a misfit between data and a model of 
 the system.
 
