@@ -1,4 +1,4 @@
-# DaDDy
+# pyDSI
 
 This python module uses statistical variational inference 
 for predicting the evolution of physical dynamical systems.
